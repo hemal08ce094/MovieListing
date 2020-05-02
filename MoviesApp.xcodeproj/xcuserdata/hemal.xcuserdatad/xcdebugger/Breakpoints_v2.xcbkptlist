@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3461CB94-1529-4E50-9534-9EF3A410E65B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2080AE6F-83C6-49EA-9AC2-755D552D1DFE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviesApp/NetworkAdapter/NetworkAccess.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "fetchData(req:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2080AE6F-83C6-49EA-9AC2-755D552D1DFE - a27bdbe6ecd77a9f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static MoviesApp.NetworkAccess.fetchData&lt;A where A: MoviesApp.Requestable&gt;(req: A, completionHandler: (MoviesApp.NetworkResult&lt;A.ResponseType&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MoviesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hemal/Documents/My%20Data/Personal/POC/MoviesApp/MoviesApp/NetworkAdapter/NetworkAccess.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "820">
+               </Location>
+               <Location
+                  uuid = "2080AE6F-83C6-49EA-9AC2-755D552D1DFE - 3d76f9d2025d2f47"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static MoviesApp.NetworkAccess.fetchData&lt;A where A: MoviesApp.Requestable&gt;(req: A, completionHandler: (MoviesApp.NetworkResult&lt;A.ResponseType&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MoviesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hemal/Documents/My%20Data/Personal/POC/MoviesApp/MoviesApp/NetworkAdapter/NetworkAccess.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "815">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
